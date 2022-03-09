@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebContextManager">
+    <option name="state">
+      <map>
+        <entry key="file://$PROJECT_DIR$/web/adminLogin.jsp" value="file://$PROJECT_DIR$/web" />
+        <entry key="file://$PROJECT_DIR$/web/mov/showMovies.jsp" value="file://$PROJECT_DIR$/web/mov" />
+        <entry key="file://$PROJECT_DIR$/web/mov/watchPage.jsp" value="file://$PROJECT_DIR$/web/mov" />
+        <entry key="file://$PROJECT_DIR$/web/use/success.jsp" value="file://$PROJECT_DIR$/web/use" />
+        <entry key="file://$PROJECT_DIR$/web/use/userCenter.jsp" value="file://$PROJECT_DIR$/web/use" />
+      </map>
+    </option>
+  </component>
+</project>
